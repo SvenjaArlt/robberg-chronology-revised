@@ -33,6 +33,9 @@ approximately 5200-year overlap between the Robberg and Oakhurst, however,
 suggests a prolonged transition and more complex dynamics between their 
 makers, climate change, and intergroup exchange.
 
+<img src="results/OLE_MIS2_violin_boxplots.jpeg" alt="OLE model of MIS 2 technocomplex chronology" width="600">
+
+*Figure: OLE model of MIS 2 technocomplex chronology.*
 ![OLE model of MIS 2 technocomplex chronology](results/OLE_MIS2_violin_boxplots.jpeg)
 ![OxCal KDE model of Oakhurst technocomplex chronology](results/OxCal_KDE_Oakhurst.png)
 ![OxCal KDE model of Robberg technocomplex chronology](results/OxCal_KDE_Robberg.png)
