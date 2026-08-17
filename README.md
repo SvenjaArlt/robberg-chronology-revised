@@ -29,7 +29,7 @@ I propose a revised chronology for the Robberg technocomplex, spanning
 24.8–9.7 ka, challenging conventional views of its duration. Shifts in 
 stone tool production broadly followed a time-transgressive trajectory 
 along the subcontinent's west–east precipitation gradient during MIS 2. An 
-approximately 5100-year overlap between the Robberg and Oakhurst, however, 
+approximately 5200-year overlap between the Robberg and Oakhurst, however, 
 suggests a prolonged transition and more complex dynamics between their 
 makers, climate change, and intergroup exchange.
 
