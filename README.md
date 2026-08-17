@@ -37,31 +37,31 @@ makers, climate change, and intergroup exchange.
 
 *Figure: OLE model of MIS 2 technocomplex start and end dates.*
 
-
+<br><br>
 
 <img src="results/OxCal_KDE_Oakhurst.png" alt="OxCal KDE model of Oakhurst technocomplex chronology" width="600">
 
 *Figure: OxCal KDE model of Oakhurst technocomplex chronology.*
 
-
+<br><br>
 
 <img src="results/OxCal_KDE_Robberg.png" alt="OxCal KDE model of Robberg technocomplex chronology" width="600">
 
 *Figure: OxCal KDE model of Robberg technocomplex chronology.*
 
-
+<br><br>
 
 <img src="results/OxCal_KDE_ELSA.png" alt="OxCal KDE model of ELSA technocomplex chronology" width="600">
 
 *Figure: OxCal KDE model of ELSA technocomplex chronology.*
 
-
+<br><br>
 
 <img src="results/OxCal_MIS2_map.jpg" alt="OxCal spatial distribution of ELSA, Robberg, and Oakhurst dated sites across MIS 2 climatic stages" width="600">
 
 *Figure: OxCal spatial distribution of ELSA, Robberg, and Oakhurst dated sites across MIS 2 climatic stages.*
 
-
+<br><br>
 
 ## Associated publication
 
