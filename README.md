@@ -33,6 +33,12 @@ approximately 5200-year overlap between the Robberg and Oakhurst, however,
 suggests a prolonged transition and more complex dynamics between their 
 makers, climate change, and intergroup exchange.
 
+![OLE model of MIS 2 technocomplex chronology](results/OLE_MIS2_violin_boxplots.jpg)
+![OxCal KDE model of Oakhurst technocomplex chronology](results/OxCal_KDE_Oakhurst.png)
+![OxCal KDE model of Robberg technocomplex chronology](results/OxCal_KDE_Robberg.png)
+![OxCal KDE model of ELSA technocomplex chronology](results/OxCal_KDE_ELSA.png)
+![OxCal spatial distribution of ELSA, Robberg, and Oakhurst dated sites across MIS 2 climatic stages](results/OxCal_MIS2_map.jpg)
+
 ## Associated publication
 
 Arlt, S. 2026. Time revisited: a revised chronology for the Robberg 
