@@ -21,6 +21,7 @@ fluctuations of MIS 2.
   determinations and OLE-formatted input
 * `code/`: R script for OLE resampling models, and OxCal scripts for 
   KDE/Bayesian modelling and spatial site plotting
+* `results/`: figures, tables, and model output files
 
 ## Key Results
 
