@@ -34,27 +34,22 @@ suggests a prolonged transition and more complex dynamics between their
 makers, climate change, and intergroup exchange.
 
 <img src="results/OLE_MIS2_violin_boxplots.jpeg" alt="OLE model of MIS 2 technocomplex start and end dates" width="600">
-
 *Figure: OLE model of MIS 2 technocomplex start and end dates.*
 
 
 <img src="results/OxCal_KDE_Oakhurst.png" alt="OxCal KDE model of Oakhurst technocomplex chronology" width="600">
-
 *Figure: OxCal KDE model of Oakhurst technocomplex chronology.*
 
 
 <img src="results/OxCal_KDE_Robberg.png" alt="OxCal KDE model of Robberg technocomplex chronology" width="600">
-
 *Figure: OxCal KDE model of Robberg technocomplex chronology.*
 
 
 <img src="results/OxCal_KDE_ELSA.png" alt="OxCal KDE model of ELSA technocomplex chronology" width="600">
-
 *Figure: OxCal KDE model of ELSA technocomplex chronology.*
 
 
 <img src="results/OxCal_MIS2_map.jpg" alt="OxCal spatial distribution of ELSA, Robberg, and Oakhurst dated sites across MIS 2 climatic stages" width="600">
-
 *Figure: OxCal spatial distribution of ELSA, Robberg, and Oakhurst dated sites across MIS 2 climatic stages.*
 
 
