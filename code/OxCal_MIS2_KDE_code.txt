@@ -7,10 +7,10 @@
 // (ELSA, Robberg, Oakhurst) in southern Africa. 
 // Input: Uncalibrated radiocarbon and OSL age determinations from
 // MIS2_dates_catalogue.xlsx (already provided below).
-// Associated publication [details to be updated upon publication]: 
-// Arlt, S. 2026. Time revisited: a revised chronology for the 
-// Robberg technocomplex in southern Africa. [Journal]. 
-// [DOI to be added once available]
+// Associated publication: 
+// Arlt, S. T. 2026. Time revisited: a revised chronology for the 
+// Robberg technocomplex in southern Africa. Quaternary Science Reviews, 392, 110285.
+// [10.1016/j.quascirev.2026.110285]
  
 Plot()
  {
