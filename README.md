@@ -60,9 +60,9 @@ makers, climate change, and intergroup exchange.
 
 ## Associated publication
 
-Arlt, S. 2026. Time revisited: a revised chronology for the Robberg 
-technocomplex in southern Africa. [Journal]. 
-[DOI to be added once available]
+Arlt, S. T. 2026. Time revisited: a revised chronology for the 
+Robberg technocomplex in southern Africa. Quaternary Science Reviews, 392, 110285.
+[10.1016/j.quascirev.2026.110285]
 
 ## Data
 
