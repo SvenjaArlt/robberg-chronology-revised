@@ -6,10 +6,10 @@
 ##          resampling to model the origin and extinction times of MIS 2 
 ##          technocomplexes in southern Africa.
 ## Input:   OLE_dataset.xlsx
-## Associated publication [details to be updated upon publication]:
-## Arlt, S. 2026. Time revisited: a revised chronology for the 
-## Robberg technocomplex in southern Africa. [Journal].
-## [DOI to be added once available]
+## Associated publication:
+## Arlt, S. T. 2026. Time revisited: a revised chronology for the 
+## Robberg technocomplex in southern Africa. Quaternary Science Reviews, 392, 110285.
+## [10.1016/j.quascirev.2026.110285]
 ## ========================================================================
 
 
